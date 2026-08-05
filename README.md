@@ -1,4 +1,18 @@
-<img width="886" height="226" alt="image" src="https://github.com/user-attachments/assets/0f1e3fcd-fda7-499f-9901-9b68b7205de6" />1.	Create Database banco_emprestimos;
+Objetivo Principal do projeto
+Automatizar o ciclo completo de concessão de crédito:
+
+Cadastrar e qualificar o cliente (KYC - Know Your Customer).
+
+Avaliar a capacidade financeira e o nível de risco (Credit Scoring).
+
+Calcular a margem consignável e o limite total de crédito utilizando matemática financeira (Tabela Price).
+
+Persistir tudo no banco de dados (MariaDB/SQLite) de forma relacional, auditável e segura.
+
+------
+
+1.	Create Database banco_emprestimos;
+<img width="886" height="226" alt="image" src="https://github.com/user-attachments/assets/0f1e3fcd-fda7-499f-9901-9b68b7205de6" />
 <img width="816" height="108" alt="image" src="https://github.com/user-attachments/assets/2be98dc7-9ebd-4c66-9e84-ef0f2409a828" />
 
 2.	Create table clientes;
